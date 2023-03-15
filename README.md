@@ -1,5 +1,7 @@
 # Duvera
 
+![DUVERA!](https://www9.0zz0.com/2023/03/15/14/966565148.png)
+
 ## Fake E-commerce App
 
 ## Overview
